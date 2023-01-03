@@ -18,7 +18,6 @@ int main()
     //exclusive_or_test();
 
 
-
     std::cout << "\n测试完成\n";
     return 0;
 }
